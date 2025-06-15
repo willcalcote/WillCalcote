@@ -1,5 +1,5 @@
 ###
-[![](https://raw.githubusercontent.com/layer5labs/meshery-extensions-packages/master/assets/badges/ui-ux/ui-ux.png)](https://meshery.layer5.io/user/2d74b037-1c1f-483d-8713-42a9984e6bf4?tab=badges)
+[![](https://raw.githubusercontent.com/layer5labs/meshery-extensions-packages/master/assets/badges/ui-ux/ui-ux.png)](https://cloud.layer5.io/user/2d74b037-1c1f-483d-8713-42a9984e6bf4?tab=badges)
 
 <!--
 **willcalcote/WillCalcote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
